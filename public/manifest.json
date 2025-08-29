@@ -1,0 +1,16 @@
+{
+  "name": "CodeCraft Solutions",
+  "short_name": "CodeCraft Solutions",
+  "description": "CodeCraft Solutions - AI Generated Website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
